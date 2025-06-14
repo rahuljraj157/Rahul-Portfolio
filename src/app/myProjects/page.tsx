@@ -66,7 +66,7 @@
 //   );
 // }
 
-
+"use client";
 import { useState } from "react";
 import ProjectCard from "../components/projectCards";
 
