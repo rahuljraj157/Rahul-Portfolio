@@ -73,20 +73,27 @@ import ProjectCard from "../components/projectCards";
 const projects = [
   {
     id: 1,
+    title: 'FINMATE',
+    description: 'Personal Finance App.',
+    image: "/finamatelogo.png",
+    link: "https://fin-matee.vercel.app/",  // 🔁 add this
+  },
+  {
+    id: 2,
     title: 'Career-up',
     description: 'This is my socialmedia job-portal.',
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlbPoU1MLqYWa-CQzP2dcdwEWyms44rlgWYJ5q1jwLNQmTjamU5Gz87A&s",
     link: "https://career-upp-bz9i.onrender.com",  // 🔁 add this
   },
   {
-    id: 2,
+    id: 3,
     title: 'Dreamfurnii',
     description: 'This is Dreamfurnii my online furniture store.',
     image: 'https://i.pinimg.com/736x/2e/a6/a0/2ea6a013f7115a7762782af84309afcb.jpg',
     link: "https://dreamfurnii.onrender.com",
   },
    {
-    id: 3,
+    id: 7,
     title: 'Netflix',
     description: 'Netflix live clone',
     image: 'https://images.ctfassets.net/y2ske730sjqp/5QQ9SVIdc1tmkqrtFnG9U1/de758bba0f65dcc1c6bc1f31f161003d/BrandAssets_Logos_02-NSymbol.jpg?w=940',
@@ -112,7 +119,7 @@ const projects = [
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFkfRKZEpJFtSmpBp7j1FsUpTAj4SqYDF4WQ&s",
      link: "https://github.com/rahuljraj157/laza3",
   },{
-    id: 6,
+    id: 7,
     title: 'PVideo-Call clone',
     description: 'videocall mini website.',
     image: "https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-vector-illustration-of-a-flat-design-video-call-icon-with-thin-lines-representing-a-technology-concept-vector-png-image_47182212.jpg",

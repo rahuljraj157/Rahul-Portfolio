@@ -266,7 +266,7 @@ const Navbar = () => {
       {/* 🟣 Resume on right */}
       <div className="pr-2">
         <a
-          href="/resume.pdf"
+          href="/my-resume.pdf"
           className="bg-green-500 hover:bg-green-600 text-white font-semibold py-1 px-3 rounded text-xs sm:text-sm"
         >
           Resume
