@@ -10,7 +10,7 @@ import { FaLinkedin, FaEnvelope, FaBriefcase } from 'react-icons/fa';
 import TagCloud from 'TagCloud';
 
 const texts = [
-  'HTML', 'CSS', 'JavaScript', 'TypeScript', 'React',"Next.js","sql",
+  'HTML', 'CSS','Redux', 'JavaScript', 'TypeScript', 'React',"Next.js","sql",
   'Node.js', 'Express', 'MongoDB', 'Tailwind', 'Git',"DSA","Docker"
 ];
 
