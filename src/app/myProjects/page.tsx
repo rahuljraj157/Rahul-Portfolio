@@ -83,7 +83,7 @@ const projects = [
     title: 'Career-up',
     description: 'This is my socialmedia job-portal.',
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlbPoU1MLqYWa-CQzP2dcdwEWyms44rlgWYJ5q1jwLNQmTjamU5Gz87A&s",
-    // link: "https://career-upp-bz9i.onrender.com",  // 🔁 add this
+    // link: "https://career-upp-bz9i.onrender.com", 
     link: "https://careerup-frontend.vercel.app/",
   },
   {
